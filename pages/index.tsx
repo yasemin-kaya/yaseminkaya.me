@@ -10,7 +10,7 @@ export default function Home() {
         hello
       </main>
       <footer>
-        <a href="https://www.linkedin.com/in/yasemingkaya/" target="_blank" >
+        <a href="https://www.linkedin.com/in/yasemingkaya/" rel="noreferrer" target="_blank">
           <svg
           className="h-6 w-6"
           role="img"
