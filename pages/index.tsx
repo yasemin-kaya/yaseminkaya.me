@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div>Yasemin Kaya coming soon</div>
+    <div className="text-2xl uppercase text-pink-600">Yasemin Kaya coming soon</div>
   )
 }
